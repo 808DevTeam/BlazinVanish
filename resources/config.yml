@@ -6,13 +6,13 @@
 # |____/|_|\__,_/___\___|_|  |_| |_|\___|_____/ \___| \_/
 
 # BlazinVanish Configuration File:
-#  Use the § symbol for color coding
+#  Use the § or & symbol for color coding
 #   Default Config:
-#     vanished-message: "§aYou have now been vanished"
-#     unvanished-message: "§cYou have now been un-vanished"
+#     vanished-message: "§bYou Have Now Been Vanished"
+#     unvanished-message: "§bYou Have Now Been Un-Vanished"
 
 # The message that will be sent to the player when they are vanished
-vanished-message: "§aYou have now been vanished"
+vanished-message: "§bYou Have Now Been Vanished"
 
 # The message that will be sent to the player when they are un-vanished
-unvanished-message: "§cYou have now been un-vanished"
+unvanished-message: "§bYou Have Now Been Un-Vanished"
